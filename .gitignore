@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
 data/news_dataset.csv
+data/news_dataset_clean.csv
+data/news_dataset_processed.csv
