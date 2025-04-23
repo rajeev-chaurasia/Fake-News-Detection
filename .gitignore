@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
-data/news_dataset.csv
-data/news_dataset_clean.csv
-data/news_dataset_processed.csv
+/venv/
+/venv_stable/
+.DS_Store
+dataset
